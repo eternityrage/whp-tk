@@ -3102,5 +3102,21 @@
             },
             "recycled": false
         }
+    },
+    {
+        "video_name": "grok-c04b12f0-4c94-4714-aa8d-e3a84e51e459-720p.mp4",
+        "metadata": {
+            "title": "Whisper-Slam Roast Session: These Cartoon Kids Turn EVERY \u201cAdult\u201d Joke Into Confetti! \ud83d\ude2d\ud83d\udd25",
+            "description": "I swear, I\u2019ve watched adult comedians bomb harder than a Wi-Fi signal in a basement\u2026 but these animated boy and girl kids? They roast each other like pros\u2014fast, savage, and somehow way funnier than they have any right to be. The whispers get louder, the jokes get weirder, and every punchline lands with that \u201cwait WHAT did they just say?!\u201d energy. If you\u2019re an animation fan like me, you already know this is the kind of weird, unexpected comedy that sticks in your brain. Like if these kids are funnier than comedians! Comment who won! Follow Whoomply Whispers!",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
