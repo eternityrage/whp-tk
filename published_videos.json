@@ -3518,5 +3518,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-b19714f3-b751-4ff0-92a6-e0ceabfbaf1b-720p.mp4",
+        "metadata": {
+            "title": "When Your Animated Friends Start a Roast Battle",
+            "description": "There's something special about animated comedy that hits different. When these cartoon kids go at each other with roasts and playful banter, it creates the most entertaining content on the internet. The animation style, voice acting, perfectly written dialogue - everything comes together to create comedy perfection. These characters have more personality in one frame than most shows have in entire seasons.",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
